@@ -6,7 +6,7 @@ terraform {
 
 
 
-
+this line is inactive
 
     provider "aws"
     region = "us-eas1"
